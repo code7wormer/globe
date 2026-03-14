@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+xarray
+matplotlib
+numpy
+pandas
+netcdf4

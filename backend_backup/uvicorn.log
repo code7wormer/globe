@@ -1,0 +1,18 @@
+nohup: ignoring input
+INFO:     Started server process [36735]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:60238 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60238 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60238 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:40530 - "GET /generate_image?year=1980&month=6&day=1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40530 - "GET /static/tiles/temp_1980-06-01.png?t=1773473797316 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50716 - "GET /generate_image?year=1985&month=6&day=1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50716 - "GET /static/tiles/temp_1985-06-01.png?t=1773473809384 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47974 - "GET /generate_image?year=2000&month=12&day=8 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47974 - "GET /static/tiles/temp_2000-12-08.png?t=1773473824766 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36478 - "GET /generate_image?year=2000&month=5&day=12 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36478 - "GET /static/tiles/temp_2000-05-12.png?t=1773473848597 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59476 - "GET /generate_image?year=2010&month=5&day=12 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59476 - "GET /static/tiles/temp_2010-05-12.png?t=1773473857584 HTTP/1.1" 200 OK
